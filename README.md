@@ -3,8 +3,7 @@
 🛠️ Hardware Designer | ⚙️ Firmware Developer  
 🔌 Focused on **IoT systems**, **embedded electronics**, and **power electronics**  
 💡 Passionate about building reliable hardware and low-level firmware for real-world applications  
-🌱 Currently exploring: [e.g. energy monitoring, wireless protocols, embedded Linux]  
-📫 Reach me at: [https://pt.linkedin.com/in/filipe-lopes-0070233b]
+🌱 Currently exploring: [e.g. analog, power converter, energy monitoring, wireless protocols, embedded Linux]
 
 ---
 
