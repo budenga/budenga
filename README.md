@@ -33,4 +33,4 @@
 
 ---
 
-📌 _"Hardware is the body. Firmware is the soul."_  
+📌 _"Step by step in the infinite tour of knowledge"_  
