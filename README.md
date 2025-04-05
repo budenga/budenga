@@ -1,36 +1,37 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Hey! I'm Filipe
 
-🎯 Desenvolvedor(a) focado(a) em [tecnologias principais]  
-💡 Apaixonado(a) por [assuntos que você curte — ex: open source, automação, UI minimalista]  
-🌱 Atualmente aprendendo: [tecnologia, linguagem ou ferramenta que está estudando]  
-📫 Como me encontrar: [email ou link para LinkedIn, portfolio, etc.]
+🛠️ Hardware Designer | ⚙️ Firmware Developer  
+🔌 Focused on **IoT systems**, **embedded electronics**, and **power electronics**  
+💡 Passionate about building reliable hardware and low-level firmware for real-world applications  
+🌱 Currently exploring: [e.g. energy monitoring, wireless protocols, embedded Linux]  
+📫 Reach me at: [https://pt.linkedin.com/in/filipe-lopes-0070233b]
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🔧 Skills & Tech
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-<!-- Adicione ou remova conforme quiser -->
+- 📐 PCB Design (KiCad, Designspark PCB)
+- 🔋 Power Electronics (DC/DC, AC/DC, Pulsed power converter)
+- 🌐 IoT Connectivity (Wi-Fi, BLE, GSM, MQTT)
+- 🧠 Embedded Programming (C/C++, FreeRTOS, STL)
+- 📡 Protocols (UART, SPI, I2C, CAN, Modbus, usb, ethernet)
+- 📊 Telemetry & Remote Monitoring
+- 🔍 Debugging Tools (oscilloscopes, logic analyzers, JTAG/SWD)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=budenga&show_icons=true&theme=merko)
 
 ---
 
-### ✨ Um pouco mais sobre mim
+### ✨ About Me
 
-- 🧘 Gosto de [hobbies ou interesses]
-- 🚀 Tenho projetos sobre [temas ou tecnologias]
-- 📂 Veja meus repositórios e fique à vontade para colaborar ou mandar um "oi"!
+- 🧘 I enjoy turning ideas into circuits and code that just work
+- 🔧 Obsessed with efficiency, noise reduction, and robust design
+- 🌍 Working on smarter, connected, and energy-aware devices
 
 ---
 
-📌 _"Código limpo é como poesia: deve fazer sentido, ser bonito e elegante."_  
-
+📌 _"Hardware is the body. Firmware is the soul."_  
