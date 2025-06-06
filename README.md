@@ -28,7 +28,7 @@
 ### ✨ About Me
 
 - 🧘 I enjoy turning ideas into circuits and code that just work
-- 🔧 Obsessed with efficiency, noise reduction, and robust design
+- 🔧 Commited to continue learning new things every day 
 - 🌍 Working on smarter, connected, and energy-aware devices
 
 ---
