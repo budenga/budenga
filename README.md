@@ -13,21 +13,4 @@ PCB Design · Power Electronics · Embedded Systems · IoT
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=flat)                                                       
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)                                    
-                                                                                                                            
----                                                                                                                       
-                                                                                                                            
-### Stats                                                                                                                 
-                                                                                                                            
-[![GitHub Streak](https://streak-stats.demolab.com?user=budenga&theme=dark&hide_border=true)](https://git.io/streak-stats)
-                                                                                                                            
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=budenga&theme=github-dark&hide_border=true&area=true)                              
-                                                                                                                            
----                                                                                                                       
-                                          
-### Activity                                                                                                              
-                                                                                                                            
-![GitHub Streak](https://streak-stats.demolab.com?user=budenga&theme=dark&hide_border=true)
-                                                                                                                            
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=budenga&theme=github-dark&hide_border=true)         
-                  
----                          
+                                                                                                                          
