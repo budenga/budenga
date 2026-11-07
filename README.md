@@ -18,8 +18,9 @@ PCB Design · Power Electronics · Embedded Systems · IoT
                                                                                                                             
 ### Stats                                                                                                                 
                                                                                                                             
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=budenga&show_icons=true&theme=dark&hide_border=true&count_private=true)                                                                                                         
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=budenga&layout=compact&theme=dark&hide_border=true)                               
+[![GitHub Streak](https://streak-stats.demolab.com?user=budenga&theme=dark&hide_border=true)](https://git.io/streak-stats)
+                                                                                                                            
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=budenga&theme=github-dark&hide_border=true&area=true)                              
                                                                                                                             
 ---                                                                                                                       
                                           
