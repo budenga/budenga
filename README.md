@@ -1,4 +1,4 @@
-# Filipe Lopes — budenga                                                                                                  
+# budenga                                                                                                  
                                                                                                                             
 Hardware Designer & Firmware Developer                                                                                    
 PCB Design · Power Electronics · Embedded Systems · IoT                                                                   
